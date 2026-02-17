@@ -1,0 +1,4 @@
+[16-Feb-2026 16:51:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/tibafuhk/abc.allfycenter.com/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/bootstrap/app.php on line 7

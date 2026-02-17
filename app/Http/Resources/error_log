@@ -1,0 +1,24 @@
+[16-Feb-2026 16:59:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/CourseResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/CourseResource.php on line 7
+[16-Feb-2026 17:01:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/ReviewResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/ReviewResource.php on line 7
+[16-Feb-2026 17:01:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/LessonResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/LessonResource.php on line 7
+[16-Feb-2026 17:02:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/UserResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/UserResource.php on line 7
+[16-Feb-2026 17:03:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/CategoryResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/CategoryResource.php on line 7
+[16-Feb-2026 17:07:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/SectionResource.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Http/Resources/SectionResource.php on line 7

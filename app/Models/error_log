@@ -1,0 +1,152 @@
+[16-Feb-2026 16:53:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/PollOption.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/PollOption.php on line 8
+[16-Feb-2026 16:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/ModelName.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/ModelName.php on line 7
+[16-Feb-2026 16:57:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Forum.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Forum.php on line 9
+[16-Feb-2026 17:00:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/ForumCategory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/ForumCategory.php on line 9
+[16-Feb-2026 17:00:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/UserEducation.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/UserEducation.php on line 8
+[16-Feb-2026 17:00:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/UserDocument.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/UserDocument.php on line 8
+[16-Feb-2026 17:01:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/User.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/User.php on line 14
+[16-Feb-2026 17:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Poll.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Poll.php on line 8
+[16-Feb-2026 17:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Like.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Like.php on line 8
+[16-Feb-2026 17:01:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Quiz.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Quiz.php on line 9
+[16-Feb-2026 17:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Review.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Review.php on line 9
+[16-Feb-2026 17:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Course.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Course.php on line 10
+[16-Feb-2026 17:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Lesson.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Lesson.php on line 9
+[16-Feb-2026 17:02:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/PollVote.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/PollVote.php on line 8
+[16-Feb-2026 17:03:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/ForumReplyUpvote.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/ForumReplyUpvote.php on line 7
+[16-Feb-2026 17:03:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Alumni.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Alumni.php on line 8
+[16-Feb-2026 17:04:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/UserProgress.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/UserProgress.php on line 8
+[16-Feb-2026 17:04:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Category.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Category.php on line 10
+[16-Feb-2026 17:04:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Section.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Section.php on line 8
+[16-Feb-2026 17:04:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Payment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Payment.php on line 9
+[16-Feb-2026 17:04:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/CoursePage.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/CoursePage.php on line 9
+[16-Feb-2026 17:04:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Enrollment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Enrollment.php on line 9
+[16-Feb-2026 17:04:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/ForumReply.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/ForumReply.php on line 9
+[16-Feb-2026 17:04:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/ForumTopic.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/ForumTopic.php on line 9
+[16-Feb-2026 17:04:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/TopicAttachment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/TopicAttachment.php on line 8
+[16-Feb-2026 17:05:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/CourseWidget.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/CourseWidget.php on line 9
+[16-Feb-2026 17:05:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Notification.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Notification.php on line 8
+[16-Feb-2026 17:05:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Announcement.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Announcement.php on line 9
+[16-Feb-2026 17:05:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/CourseComment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/CourseComment.php on line 9
+[16-Feb-2026 17:05:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/QuizQuestion.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/QuizQuestion.php on line 9
+[16-Feb-2026 17:05:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/UserSkill.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/UserSkill.php on line 8
+[16-Feb-2026 17:05:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/CourseTemplate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/CourseTemplate.php on line 9
+[16-Feb-2026 17:05:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/StudentProduct.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/StudentProduct.php on line 9
+[16-Feb-2026 17:05:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/UserExperience.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/UserExperience.php on line 8
+[16-Feb-2026 17:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/Certificate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/Certificate.php on line 9
+[16-Feb-2026 17:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/UserProfile.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/UserProfile.php on line 8
+[16-Feb-2026 17:05:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/QuizAttempt.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/QuizAttempt.php on line 9
+[16-Feb-2026 17:07:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/tibafuhk/abc.allfycenter.com/app/Models/LessonProgress.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Models/LessonProgress.php on line 9

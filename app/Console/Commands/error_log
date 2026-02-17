@@ -1,0 +1,8 @@
+[16-Feb-2026 17:03:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/tibafuhk/abc.allfycenter.com/app/Console/Commands/PerformanceCheck.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Console/Commands/PerformanceCheck.php on line 9
+[16-Feb-2026 17:09:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/tibafuhk/abc.allfycenter.com/app/Console/Commands/CreateRoles.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Console/Commands/CreateRoles.php on line 8

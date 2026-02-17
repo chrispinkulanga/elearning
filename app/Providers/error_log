@@ -1,0 +1,4 @@
+[16-Feb-2026 17:00:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/tibafuhk/abc.allfycenter.com/app/Providers/AppServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Providers/AppServiceProvider.php on line 17

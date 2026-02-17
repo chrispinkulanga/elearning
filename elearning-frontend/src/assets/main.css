@@ -1,0 +1,306 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 transition-colors duration-200;
+  }
+  
+  .btn-primary {
+    @apply btn bg-primary-600 text-white hover:bg-primary-700 focus:ring-primary-500;
+  }
+  
+  .btn-secondary {
+    @apply btn bg-gray-200 text-gray-800 hover:bg-gray-300 focus:ring-gray-500;
+  }
+  
+  .btn-success {
+    @apply btn bg-success-600 text-white hover:bg-success-700 focus:ring-success-500;
+  }
+  
+  .btn-warning {
+    @apply btn bg-warning-600 text-white hover:bg-warning-700 focus:ring-warning-500;
+  }
+  
+  .btn-danger {
+    @apply btn bg-danger-600 text-white hover:bg-danger-700 focus:ring-danger-500;
+  }
+  
+  .btn-outline {
+    @apply btn border-gray-300 text-gray-700 bg-white hover:bg-gray-50 focus:ring-primary-500;
+  }
+
+  .btn-small {
+    @apply px-2 py-1 text-xs;
+  }
+
+  .btn-icon {
+    @apply p-2 text-gray-400 hover:text-gray-600 transition-colors;
+  }
+
+  .btn-back {
+    @apply btn-secondary;
+  }
+
+  .btn-small {
+    @apply px-3 py-1.5 text-sm;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-sm border border-gray-200;
+  }
+  
+  .input {
+    @apply block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-primary-500 focus:border-primary-500 sm:text-sm;
+  }
+  
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+  
+  .badge-primary {
+    @apply badge bg-primary-100 text-primary-800;
+  }
+  
+  .badge-secondary {
+    @apply badge bg-secondary-100 text-secondary-800;
+  }
+  
+  .badge-success {
+    @apply badge bg-success-100 text-success-800;
+  }
+  
+  .badge-warning {
+    @apply badge bg-warning-100 text-warning-800;
+  }
+  
+  .badge-danger {
+    @apply badge bg-danger-100 text-danger-800;
+  }
+
+  /* Course Builder Styles */
+  .course-builder {
+    @apply min-h-screen bg-gray-50;
+  }
+
+  .builder-header {
+    @apply bg-white border-b border-gray-200 px-6 py-4 flex items-center justify-between;
+  }
+
+  .left-section {
+    @apply flex items-center space-x-4;
+  }
+
+  .center-section {
+    @apply flex-1 flex justify-center;
+  }
+
+  .right-section {
+    @apply flex items-center space-x-3;
+  }
+
+  .page-selector {
+    @apply flex items-center space-x-3;
+  }
+
+  .course-status {
+    @apply px-2 py-1 text-xs font-medium rounded-full;
+  }
+
+  .course-status.draft {
+    @apply bg-gray-100 text-gray-800;
+  }
+
+  .course-status.published {
+    @apply bg-green-100 text-green-800;
+  }
+
+  .course-status.archived {
+    @apply bg-red-100 text-red-800;
+  }
+
+  .builder-layout {
+    @apply flex h-[calc(100vh-80px)];
+  }
+
+  .structure-panel {
+    @apply w-80 bg-white border-r border-gray-200 overflow-y-auto;
+  }
+
+  .panel-header {
+    @apply p-4 border-b border-gray-200 flex items-center justify-between;
+  }
+
+  .course-tree {
+    @apply p-4 space-y-2;
+  }
+
+  .page-item {
+    @apply border border-gray-200 rounded-lg;
+  }
+
+  .page-header {
+    @apply p-3 bg-gray-50 hover:bg-gray-100 cursor-pointer flex items-center justify-between;
+  }
+
+  .page-actions {
+    @apply flex items-center space-x-1;
+  }
+
+  .sections-list {
+    @apply p-3 space-y-2;
+  }
+
+  .widget-item {
+    @apply p-2 bg-white border border-gray-200 rounded;
+  }
+
+  .widget-header {
+    @apply flex items-center justify-between;
+  }
+
+  .content-editor {
+    @apply flex-1 bg-white overflow-y-auto;
+  }
+
+  .page-editor {
+    @apply p-6;
+  }
+
+  .page-title-input {
+    @apply text-2xl font-bold border-none outline-none w-full mb-4;
+  }
+
+  .content-canvas {
+    @apply min-h-[400px] border-2 border-dashed border-gray-300 rounded-lg p-4;
+  }
+
+  .widgets-container {
+    @apply space-y-4;
+  }
+
+  .add-widget-btn {
+    @apply w-full p-4 border-2 border-dashed border-gray-300 rounded-lg text-gray-500 hover:border-gray-400 hover:text-gray-600 transition-colors;
+  }
+
+  .no-page-selected {
+    @apply flex items-center justify-center h-full;
+  }
+
+  .empty-state {
+    @apply text-center;
+  }
+
+  /* Modal Styles */
+  .modal-overlay {
+    @apply fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50;
+  }
+
+  .modal-content {
+    @apply bg-white rounded-lg shadow-xl max-w-md w-full mx-4 max-h-[90vh] overflow-y-auto;
+  }
+
+  .modal-header {
+    @apply flex items-center justify-between p-6 border-b border-gray-200;
+  }
+
+  .modal-title {
+    @apply text-lg font-medium text-gray-900;
+  }
+
+  .modal-close {
+    @apply p-2 text-gray-400 hover:text-gray-600 transition-colors;
+  }
+
+  .modal-body {
+    @apply p-6;
+  }
+
+  .modal-footer {
+    @apply flex items-center justify-end space-x-3 pt-4 border-t border-gray-200;
+  }
+
+  /* Form Styles */
+  .form-group {
+    @apply mb-4;
+  }
+
+  .form-label {
+    @apply block text-sm font-medium text-gray-700 mb-2;
+  }
+
+  .form-input,
+  .form-select,
+  .form-textarea {
+    @apply w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500;
+  }
+
+  .form-textarea {
+    resize: vertical;
+  }
+
+  .form-help {
+    @apply mt-1 text-xs text-gray-500;
+  }
+
+  .checkbox-group {
+    @apply space-y-2;
+  }
+
+  .checkbox-item {
+    @apply flex items-start space-x-2;
+  }
+
+  .form-checkbox {
+    @apply mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300 rounded;
+  }
+
+  .checkbox-label {
+    @apply text-sm text-gray-700;
+  }
+
+  .loading-spinner {
+    @apply animate-spin rounded-full h-4 w-4 border-b-2 border-white;
+  }
+
+  /* Widget Grid */
+  .widget-grid {
+    @apply grid grid-cols-2 gap-4;
+  }
+
+  .widget-option {
+    @apply p-4 border border-gray-200 rounded-lg text-center cursor-pointer hover:border-primary-300 hover:bg-primary-50 transition-colors;
+  }
+
+  .widget-option.selected {
+    @apply border-primary-500 bg-primary-50;
+  }
+
+  .widget-icon {
+    @apply text-3xl text-gray-400 mb-2;
+  }
+
+  .widget-name {
+    @apply text-sm font-medium text-gray-700;
+  }
+
+  /* Options List */
+  .options-list {
+    @apply space-y-2;
+  }
+
+  .option-item {
+    @apply flex items-center space-x-2;
+  }
+
+  .remove-option-btn {
+    @apply p-1 text-red-500 hover:text-red-700;
+  }
+} 

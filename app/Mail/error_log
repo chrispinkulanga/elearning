@@ -1,0 +1,28 @@
+[16-Feb-2026 16:51:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/tibafuhk/abc.allfycenter.com/app/Mail/OTPMail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Mail/OTPMail.php on line 12
+[16-Feb-2026 17:02:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/tibafuhk/abc.allfycenter.com/app/Mail/EmailVerificationMail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Mail/EmailVerificationMail.php on line 12
+[16-Feb-2026 17:02:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/tibafuhk/abc.allfycenter.com/app/Mail/CourseEnrollmentEmail.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Mail/CourseEnrollmentEmail.php on line 15
+[16-Feb-2026 17:03:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/tibafuhk/abc.allfycenter.com/app/Mail/AlumniInvitationMail.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Mail/AlumniInvitationMail.php on line 13
+[16-Feb-2026 17:04:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/tibafuhk/abc.allfycenter.com/app/Mail/WelcomeEmail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Mail/WelcomeEmail.php on line 17
+[16-Feb-2026 17:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/tibafuhk/abc.allfycenter.com/app/Mail/AnnouncementEmail.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Mail/AnnouncementEmail.php on line 15
+[16-Feb-2026 17:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/tibafuhk/abc.allfycenter.com/app/Mail/CertificateEmail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Mail/CertificateEmail.php on line 17

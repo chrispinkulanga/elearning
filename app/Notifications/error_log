@@ -1,0 +1,20 @@
+[16-Feb-2026 16:57:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/tibafuhk/abc.allfycenter.com/app/Notifications/ForumReplyNotification.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Notifications/ForumReplyNotification.php on line 12
+[16-Feb-2026 16:57:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/tibafuhk/abc.allfycenter.com/app/Notifications/CourseApproved.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Notifications/CourseApproved.php on line 12
+[16-Feb-2026 16:57:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/tibafuhk/abc.allfycenter.com/app/Notifications/QuizCompleted.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Notifications/QuizCompleted.php on line 13
+[16-Feb-2026 16:57:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/tibafuhk/abc.allfycenter.com/app/Notifications/NewEnrollment.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Notifications/NewEnrollment.php on line 13
+[16-Feb-2026 16:59:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Notification" not found in /home/tibafuhk/abc.allfycenter.com/app/Notifications/NewAnnouncement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/app/Notifications/NewAnnouncement.php on line 12

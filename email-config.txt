@@ -1,0 +1,16 @@
+Email Configuration for OTP Password Reset
+
+Add these settings to your .env file:
+
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=acp@africanchildprojects.org
+MAIL_PASSWORD=hgun gskj ubyf zerv
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS=acp@africanchildprojects.org
+MAIL_FROM_NAME="E-Learning App"
+
+Note: The password above is an app-specific password for Gmail.
+Make sure to enable 2-factor authentication on the Gmail account
+and generate an app password for this application.

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Auth Debug</title>
+</head>
+<body>
+    <h1>Authentication Debug</h1>
+    <div id="debug"></div>
+    
+    <script>
+        function log(message) {
+            document.getElementById('debug').innerHTML += '<p>' + message + '</p>';
+        }
+        
+        log('🔍 Checking authentication...');
+        
+        // Check localStorage
+        const token = localStorage.getItem('auth_token');
+        const user = localStorage.getItem('user');
+        
+        log('Token: ' + (token ? 'Present (' + token.substring(0, 20) + '...)' : 'Missing'));
+        log('User: ' + (user ? 'Present' : 'Missing'));
+        
+        if (user) {
+            try {
+                const userData = JSON.parse(user);
+                log('User ID: ' + userData.id);
+                log('User Name: ' + userData.name);
+                log('User Email: ' + userData.email);
+                log('User Roles: ' + JSON.stringify(userData.roles));
+            } catch (e) {
+                log('Error parsing user: ' + e.message);
+            }
+        }
+        
+        // Test API call
+        if (token) {
+            log('🧪 Testing API call...');
+            
+            fetch('/api/auth/user', {
+                headers: {
+                    'Authorization': 'Bearer ' + token,
+                    'Accept': 'application/json'
+                }
+            })
+            .then(response => {
+                log('Response status: ' + response.status);
+                return response.json();
+            })
+            .then(data => {
+                log('Response data: ' + JSON.stringify(data));
+            })
+            .catch(error => {
+                log('API Error: ' + error.message);
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+[17-Feb-2026 06:09:48 UTC] PHP Warning:  require_once(/home/tibafuhk/abc.allfycenter.com/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/tibafuhk/abc.allfycenter.com/index.php on line 18
+[17-Feb-2026 06:09:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tibafuhk/abc.allfycenter.com/../bootstrap/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tibafuhk/abc.allfycenter.com/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/index.php on line 18
+[17-Feb-2026 06:10:31 UTC] PHP Warning:  require_once(/home/tibafuhk/abc.allfycenter.com/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/tibafuhk/abc.allfycenter.com/index.php on line 18
+[17-Feb-2026 06:10:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tibafuhk/abc.allfycenter.com/../bootstrap/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tibafuhk/abc.allfycenter.com/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/index.php on line 18
+[17-Feb-2026 06:10:57 UTC] PHP Warning:  require_once(/home/tibafuhk/abc.allfycenter.com/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/tibafuhk/abc.allfycenter.com/index.php on line 18
+[17-Feb-2026 06:10:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/tibafuhk/abc.allfycenter.com/../bootstrap/app.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/tibafuhk/abc.allfycenter.com/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/index.php on line 18

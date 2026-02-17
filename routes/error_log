@@ -1,0 +1,12 @@
+[16-Feb-2026 16:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/tibafuhk/abc.allfycenter.com/routes/web.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/routes/web.php on line 9
+[16-Feb-2026 16:51:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/tibafuhk/abc.allfycenter.com/routes/api.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/routes/api.php on line 41
+[16-Feb-2026 16:51:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/tibafuhk/abc.allfycenter.com/routes/console.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/routes/console.php on line 6

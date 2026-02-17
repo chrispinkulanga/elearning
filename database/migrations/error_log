@@ -1,0 +1,196 @@
+[16-Feb-2026 16:52:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_103651_create_alumnis_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_103651_create_alumnis_table.php on line 7
+[16-Feb-2026 16:52:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_02_070400_create_user_progress_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_02_070400_create_user_progress_table.php on line 7
+[16-Feb-2026 16:52:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_01_15_000002_update_lessons_table_add_section_id.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_01_15_000002_update_lessons_table_add_section_id.php on line 7
+[16-Feb-2026 16:52:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000002_create_courses_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000002_create_courses_table.php on line 8
+[16-Feb-2026 16:52:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000003_create_lessons_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000003_create_lessons_table.php on line 8
+[16-Feb-2026 16:52:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_01_20_000001_create_course_pages_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_01_20_000001_create_course_pages_table.php on line 7
+[16-Feb-2026 16:52:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_121151_create_user_skills_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_121151_create_user_skills_table.php on line 7
+[16-Feb-2026 16:52:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000010_create_payments_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000010_create_payments_table.php on line 8
+[16-Feb-2026 16:52:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_01_15_000001_create_sections_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_01_15_000001_create_sections_table.php on line 7
+[16-Feb-2026 16:52:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_01_20_000002_create_course_widgets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_01_20_000002_create_course_widgets_table.php on line 7
+[16-Feb-2026 16:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000012_create_forums_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000012_create_forums_table.php on line 8
+[16-Feb-2026 16:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000009_create_reviews_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000009_create_reviews_table.php on line 8
+[16-Feb-2026 16:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000008_create_quiz_attempts_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000008_create_quiz_attempts_table.php on line 8
+[16-Feb-2026 16:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000005_create_lesson_progress_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000005_create_lesson_progress_table.php on line 8
+[16-Feb-2026 16:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000004_create_enrollments_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000004_create_enrollments_table.php on line 8
+[16-Feb-2026 16:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000001_create_categories_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000001_create_categories_table.php on line 8
+[16-Feb-2026 16:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_05_26_065448_create_sessions_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_05_26_065448_create_sessions_table.php on line 7
+[16-Feb-2026 16:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_01_20_000003_create_course_templates_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_01_20_000003_create_course_templates_table.php on line 7
+[16-Feb-2026 16:52:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000014_create_forum_replies_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000014_create_forum_replies_table.php on line 8
+[16-Feb-2026 16:52:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000015_create_student_products_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000015_create_student_products_table.php on line 8
+[16-Feb-2026 16:52:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2026_01_05_000001_add_missing_columns_to_courses_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2026_01_05_000001_add_missing_columns_to_courses_table.php on line 7
+[16-Feb-2026 16:52:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_08_14_200040_make_course_id_nullable_in_forums_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_08_14_200040_make_course_id_nullable_in_forums_table.php on line 7
+[16-Feb-2026 16:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000011_create_certificates_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000011_create_certificates_table.php on line 8
+[16-Feb-2026 16:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000017_create_announcements_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000017_create_announcements_table.php on line 8
+[16-Feb-2026 16:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_04_174444_add_otp_fields_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_04_174444_add_otp_fields_to_users_table.php on line 7
+[16-Feb-2026 16:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000007_create_quiz_questions_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000007_create_quiz_questions_table.php on line 8
+[16-Feb-2026 16:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000006_create_quizzes_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000006_create_quizzes_table.php on line 8
+[16-Feb-2026 16:52:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000013_create_forum_topics_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000013_create_forum_topics_table.php on line 8
+[16-Feb-2026 16:52:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/0001_01_01_000000_create_users_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/0001_01_01_000000_create_users_table.php on line 8
+[16-Feb-2026 16:52:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[16-Feb-2026 16:52:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[16-Feb-2026 16:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_07_28_094229_add_refund_fields_to_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_07_28_094229_add_refund_fields_to_payments_table.php on line 7
+[16-Feb-2026 16:52:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_08_11_203758_add_color_to_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_08_11_203758_add_color_to_categories_table.php on line 7
+[16-Feb-2026 16:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_08_13_122657_update_guard_names_to_sanctum.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_08_13_122657_update_guard_names_to_sanctum.php on line 8
+[16-Feb-2026 16:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_06_09_212840_create_model_names_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_06_09_212840_create_model_names_table.php on line 7
+[16-Feb-2026 16:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_121143_create_user_documents_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_121143_create_user_documents_table.php on line 7
+[16-Feb-2026 16:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_121134_create_user_profiles_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_121134_create_user_profiles_table.php on line 7
+[16-Feb-2026 16:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_06_09_212836_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_06_09_212836_create_personal_access_tokens_table.php on line 7
+[16-Feb-2026 16:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_07_28_103209_enhance_payments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_07_28_103209_enhance_payments_table.php on line 7
+[16-Feb-2026 16:52:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_06_09_212809_create_permission_tables.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_06_09_212809_create_permission_tables.php on line 7
+[16-Feb-2026 16:52:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_121307_create_user_experiences_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_121307_create_user_experiences_table.php on line 7
+[16-Feb-2026 16:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_02_211953_create_forum_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_02_211953_create_forum_categories_table.php on line 7
+[16-Feb-2026 16:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_05_082827_create_course_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_05_082827_create_course_comments_table.php on line 7
+[16-Feb-2026 16:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_06_09_233405_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_06_09_233405_create_failed_jobs_table.php on line 7
+[16-Feb-2026 16:52:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_04_203119_add_email_verification_to_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_04_203119_add_email_verification_to_users_table.php on line 7
+[16-Feb-2026 16:52:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000016_create_notifications_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2024_01_01_000016_create_notifications_table.php on line 8
+[16-Feb-2026 16:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_07_28_103459_update_announcements_table_add_missing_fields.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_07_28_103459_update_announcements_table_add_missing_fields.php on line 7
+[16-Feb-2026 16:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_08_14_195047_create_forum_reply_upvotes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_08_14_195047_create_forum_reply_upvotes_table.php on line 7
+[16-Feb-2026 16:52:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_121418_create_user_educations_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/migrations/2025_09_10_121418_create_user_educations_table.php on line 7

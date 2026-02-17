@@ -1,0 +1,52 @@
+[16-Feb-2026 16:53:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/StudentProductFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/StudentProductFactory.php on line 12
+[16-Feb-2026 16:53:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/ReviewFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/ReviewFactory.php on line 12
+[16-Feb-2026 16:54:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/QuizQuestionFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/QuizQuestionFactory.php on line 12
+[16-Feb-2026 16:54:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/EnrollmentFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/EnrollmentFactory.php on line 12
+[16-Feb-2026 16:54:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/ForumReplyFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/ForumReplyFactory.php on line 12
+[16-Feb-2026 16:54:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/ForumTopicFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/ForumTopicFactory.php on line 12
+[16-Feb-2026 16:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/CourseFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/CourseFactory.php on line 13
+[16-Feb-2026 16:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/LessonFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/LessonFactory.php on line 11
+[16-Feb-2026 16:58:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/PaymentFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/PaymentFactory.php on line 14
+[16-Feb-2026 16:59:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/ForumFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/ForumFactory.php on line 11
+[16-Feb-2026 17:03:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/CategoryFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/CategoryFactory.php on line 11
+[16-Feb-2026 17:06:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/QuizFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/QuizFactory.php on line 11
+[16-Feb-2026 17:13:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/tibafuhk/abc.allfycenter.com/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tibafuhk/abc.allfycenter.com/database/factories/UserFactory.php on line 12

@@ -1,0 +1,35 @@
+; PHP Opcache Configuration for Production Performance
+; This file contains optimized settings for 2-5x faster execution
+
+; Enable Opcache
+opcache.enable=1
+opcache.enable_cli=1
+
+; Memory settings for better performance
+opcache.memory_consumption=256
+opcache.interned_strings_buffer=16
+opcache.max_accelerated_files=20000
+
+; Performance optimizations
+opcache.validate_timestamps=0
+opcache.save_comments=1
+opcache.enable_file_override=1
+
+; Windows compatibility settings
+opcache.file_cache_only=0
+opcache.file_cache_consistency_checks=1
+
+; Advanced optimizations
+opcache.optimization_level=0x7FFFBFFF
+opcache.max_file_size=0
+opcache.force_restart_timeout=180
+opcache.revalidate_freq=0
+opcache.fast_shutdown=1
+
+; Error handling
+opcache.error_log=""
+opcache.log_verbosity_level=1
+
+; JIT compilation (PHP 8.0+)
+opcache.jit_buffer_size=256M
+opcache.jit=1235
