@@ -130,7 +130,7 @@ export const authAPI = {
   forgotPassword: (email) => api.post('/auth/forgot-password', { email }),
   resetPassword: (token, password, password_confirmation) => 
     api.post('/auth/reset-password', { token, password, password_confirmation }),
-  verifyEmail: (token) => api.post('/auth/verify-email', { token }),
+  verifyEmail: (token, email) => api.post('/auth/verify-email', { token, email }),
   
   // OTP-based password reset methods
   sendOTP: (email) => api.post('/auth/send-otp', { email }),

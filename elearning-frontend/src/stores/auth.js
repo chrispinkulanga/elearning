@@ -273,10 +273,10 @@ export const useAuthStore = defineStore('auth', () => {
     }
   }
 
-  const verifyEmail = async (token) => {
+  const verifyEmail = async (token, email) => {
     loading.value = true
     try {
-      await authAPI.verifyEmail(token)
+      await authAPI.verifyEmail(token, email)
       toast.success('Email verified successfully')
     } catch (error) {
       throw error

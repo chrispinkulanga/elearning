@@ -74,6 +74,12 @@ const routes = [
     meta: { title: 'Email Verification' }
   },
   {
+    path: '/verify-email',
+    name: 'VerifyEmail',
+    component: () => import('@/views/auth/VerifyEmail.vue'),
+    meta: { title: 'Verify Email' }
+  },
+  {
     path: '/reset-password',
     name: 'ResetPassword',
     component: ResetPassword,
